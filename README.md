@@ -228,7 +228,7 @@ print("Path to competition files:", path)
 
 ```text
 .
-├── final-notebook-84146.ipynb
+├── main.ipynb
 ├── data/
 │   ├── estate_sample_submission.csv
 │   ├── estate_test.csv
